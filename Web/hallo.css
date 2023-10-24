@@ -1,0 +1,26 @@
+<style>{
+    .box1{
+        width: 159px;
+        height: 115px;
+        background-color: aqua;
+    
+        position: absolute;
+        /*coards*/
+        top: 105px;
+        left: 35px;
+        right: 0px;
+        bottom: 0px;
+     }
+     .box2 {
+        width: 160px;
+        height: 140px;
+        background-color: #FF91AF;
+    
+        position: absolute;
+        /*coards*/
+        top: 256px;
+        left: 35px;
+        right: 0px;
+        bottom: 0px;
+     }
+}

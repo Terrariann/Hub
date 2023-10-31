@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Oxtail";
+  src: url("oxtail/oxtailmedium-webfont.svg") format("svg"),
+       url("oxtail/oxtailmedium-webfont.eot") format("embedded-opentype"),
+       url("oxtail/oxtailmedium-webfont.ttf") format("truetype"),
+       url("oxtail/oxtailmedium-webfont.woff") format("woff");
+}
+
+h1{
+    font-family:'Oxtail';
+    font-size:28px;
+}
+
+
+@font-face {
+  font-family: "Oxtail Bold";
+  src: url("oxtail/oxtailbold-webfont.svg") format("svg"),
+       url("oxtail/oxtailbold-webfont.eot") format("embedded-opentype"),
+       url("oxtail/oxtailbold-webfont.ttf") format("truetype"),
+       url("oxtail/oxtailbold-webfont.woff") format("woff");
+  font-style:normal;
+  font-weight:700;
+}
+
+h2{
+    font-family:'Oxtail Bold';
+    font-size:34px;
+    font-weight:bold;/*obselete*/
+}
+
+@font-face {
+  font-family: "Old English";
+  src: url("/Web/EngraversOldEnglishNormal.ttf") format("truetype");
+  font-style:normal;
+}
+
+  body {
+    font-family:"Old English";
+  }
+  
+  

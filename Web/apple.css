@@ -1,0 +1,289 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 1px 0;
+    text-align: center;
+}
+
+.greylogo {
+    width: 50px;
+    height: auto;
+    bottom: 1px;
+}
+.Nava{
+    color: rgb(161, 161, 161);
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    
+    padding: 0;
+    text-align: center;
+    
+}
+
+li {
+    display: inline-block;
+   margin-right: 20px;
+}
+
+
+
+.hero {
+    background-image: url('background.jpg'); /* Add your background image */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.pro {
+    height: 500px;
+    margin-left: 550px;
+    margin-top: 500px;
+}
+
+.box1 {
+    height: 900px;
+    width: 1800px;
+    background-color:black;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    color: white;
+}
+.Proline1{
+    font-size: 3rem;
+}
+.Proline2{
+    font-size: 2rem;
+}
+.Proline3{
+    font-size: 1.2rem;
+}
+.Proline4{
+    font-size: 1.5rem;
+}
+
+.content-box1 {
+    position: relative;
+    margin: 20px 0;
+}
+
+.box1 img {
+    max-width: 100%;
+    height: 600px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+   
+}
+
+.box {
+    height: 800px;
+    width: 1800px;
+    background-color:white;
+    border: 1px solid white;
+    padding-top: 100px;
+    text-align: center;
+    position: relative;
+
+}
+.Pline1{
+    font-size: 3rem;
+    
+}
+.Pline2{
+    font-size: 1rem;
+    
+}
+.content-box {
+    position: relative;
+    margin: px 0;
+}
+
+.box img {
+    max-width: 100%;
+    position: absolute;
+    bottom: 10;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.black{
+    height: 100px;
+    top: 2%;
+}
+.phone111{
+    height: 600px;
+   
+}
+.box2 {
+    height: 550px;
+    width: 925px;
+    background-color:rgb(240, 240, 240);
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    color: black;
+}
+.Macline1{
+    font-size: 3rem;
+}
+.Macline2{
+    font-size: 1.5rem;
+}
+.Macline3{
+    font-size: 1.2rem;
+}
+
+.content-box2 {
+    position: relative;
+    margin: 20px 0;
+}
+
+.box2 img {
+    max-width: 100%;
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+   
+}
+.box3 {
+    height: 550px;
+    width: 831px;
+    background-color:rgb(240, 240, 240);
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    left: 970px;
+    bottom: 612px;
+    color: black;
+    
+}
+.Padline1{
+    font-size: 3rem;
+}
+.Padline2{
+    font-size: 1.5rem;
+}
+.Padline3{
+    font-size: 1.2rem;
+}
+
+.content-box3 {
+    position: relative;
+    margin: 20px 0;
+}
+
+.box3 img {
+    max-width: 100%;
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+}
+.box4 {
+    height: 550px;
+    width: 925px;
+    background-color:rgb(240, 240, 240);
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 630px;
+    color: black;
+}
+.Phoneline1{
+    font-size: 3rem;
+}
+.Phoneline2{
+    font-size: 1.5rem;
+}
+.Phoneline3{
+    font-size: 1.2rem;
+}
+
+.content-box4 {
+    position: relative;
+    margin: 20px 0;
+}
+
+.box4 img {
+    max-width: 100%;
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+}
+.box5 {
+    height: 550px;
+    width: 831px;
+    background-color:rgb(240, 240, 240);
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 1240px;
+    left: 970px;
+    color: black;
+}
+.Watchline1{
+    font-size: 3rem;
+}
+.Watchline2{
+    font-size: 1.5rem;
+}
+.Watchline3{
+    font-size: 1.2rem;
+}
+
+.content-box5 {
+    position: relative;
+    margin: 20px 0;
+}
+
+.box5 img {
+    max-width: 100%;
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+}
